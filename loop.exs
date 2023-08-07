@@ -12,7 +12,7 @@ defmodule Meumodulo.Loop do
 
 @doc """
 fazer um loop com o elixir usando o Pattern Matching e fazendo uma recursao
-funcao que que chama outra funçao e recebe dois parametros e pega o segundo parametro e soma +1
+funcao que que chama outra funçao e recebe dois parametros e pega o segundo parametro e soma +1.
 """
 end
 

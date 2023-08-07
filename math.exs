@@ -3,7 +3,7 @@ defmodule Meumodulo.Math do
 
     def zero?(0), do: true
     def zero?(x) when(is_integer(x)), do: false
-    
+
 @moduledoc """
 usando a funçao de clausula de guarda
 """

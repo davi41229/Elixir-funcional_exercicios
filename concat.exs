@@ -5,7 +5,6 @@ defmodule MeuModulo.Concat do
         string_a
     end
 
-
     def join(string_a, string_b, separador)do
         string_a <> separador <> string_b
         

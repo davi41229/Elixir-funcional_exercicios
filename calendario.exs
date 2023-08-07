@@ -49,7 +49,6 @@ defmodule Meumodulo.Calendario do
     def abreviacao_dia_semana4(:Quarta), do: "Qua"
     def abreviacao_dia_semana4(_), do: "Dia invalido"
     
-    
 @moduledoc """
 formas de substituir o if else com o case e o Pattern Matching.
 """
