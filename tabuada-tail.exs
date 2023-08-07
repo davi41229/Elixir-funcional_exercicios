@@ -3,6 +3,7 @@ defmodule MeuModulo.Tabuada do
         tabuada(multiplicador, 1, [])
     end
 
+
     defp tabuada(_, 11, valores), do: valores
 
     defp tabuada(produto1, produto2, valores) do

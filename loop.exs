@@ -1,5 +1,4 @@
 defmodule Meumodulo.Loop do
-
     def tabuada(multiplicador) do
         tabuada(multiplicador, 1)
     end

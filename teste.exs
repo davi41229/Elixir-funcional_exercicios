@@ -5,7 +5,6 @@ defmodule Meumodulo do
     alias Meumodulo.Math, as: MyMath
 
     
-
     def ola_mundo do
         inspect(MyMath.soma(2, 2))
     end
